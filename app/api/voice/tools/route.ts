@@ -233,10 +233,13 @@ export async function POST(req: NextRequest) {
           needsConfirmation,
           pointsEarned: isCorrect ? question.points : 0,
           currentScore: state.score,
-          explanation: question.miniCorpus,
+          explanation: nextMessage,
           questionNumber: state.currentQuestionIndex + 1,
           totalQuestions: questions.length,
-          isLastQuestion: !hasNextQuestion
+          isLastQuestion: !hasNextQuestion,
+          // KRİTİK: Asistana next_question çağırması gerektiğini söyle
+          shouldCallNextQuestion: !needsConfirmation && hasNextQuestion,
+          nextAction: !needsConfirmation ? (hasNextQuestion ? 'next_question' : 'end_quiz') : 'wait_confirmation'
         });
 
       case 'confirm_answer':
@@ -268,8 +271,13 @@ export async function POST(req: NextRequest) {
         
         return NextResponse.json({
           confirmed: true,
+          correct: wasCorrect,
+          pointsEarned: wasCorrect ? currentQ.points : 0,
           currentScore: state.score,
-          miniCorpus: currentQ.miniCorpus
+          explanation: currentQ.miniCorpus,
+          // KRİTİK: confirm_answer'dan sonra da next_question tetiklenmeli
+          shouldCallNextQuestion: state.currentQuestionIndex < questions.length - 1,
+          nextAction: state.currentQuestionIndex < questions.length - 1 ? 'next_question' : 'end_quiz'
         });
 
       case 'answer_user_question':
