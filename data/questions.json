@@ -1,0 +1,126 @@
+[
+  {
+    "id": "q1",
+    "type": "open",
+    "question": "Türkiye'de Sıfır Atık Projesi'nin başladığı 2017 yılında geri dönüşüm oranı yüzde 13'tü. 2024 yılında bu oran kaça yükseldi?",
+    "openEval": {
+      "keywordsAny": ["36", "otuz altı", "36,08", "yüzde 36"],
+      "regexAny": ["3[0-9]", "36"],
+      "minHits": 1
+    },
+    "points": 10,
+    "miniCorpus": "Harika! Doğru cevap yüzde 36,08. Bu gerçekten muhteşem bir başarı hikayesi! Düşünün, sadece 7 yılda geri dönüşüm oranımızı neredeyse 3 katına çıkardık. Bu, Cumhurbaşkanımızın eşi Emine Erdoğan Hanımefendi'nin himayesindeki Sıfır Atık Projesi'nin ne kadar etkili olduğunu gösteriyor. 2035 yılında yüzde 60'a, 2053 yılında ise yüzde 70'e çıkarma hedefimiz var. Birlikte bu hedeflere ulaşacağız!"
+  },
+  {
+    "id": "q2",
+    "type": "mcq",
+    "question": "Sıfır Atık sisteminde atıklar kaç ana kategoriye ayrılır ve bunlar nelerdir?",
+    "options": ["A) 3 kategori: Kağıt, Plastik, Cam", "B) 4 kategori: Kağıt-Karton, Plastik-Metal, Cam, Organik", "C) 5 kategori: Her atık ayrı", "D) 2 kategori: Geri dönüşüm ve çöp"],
+    "correct": "B",
+    "points": 10,
+    "miniCorpus": "Harika! Dört ana kategori var: Kağıt-Karton (mavi), Plastik-Metal (sarı), Cam (beyaz) ve Organik Atık (kahverengi). Bu renk kodlaması sistemi sayesinde herkes kolayca ayrıştırma yapabiliyor. Unutmayın, doğru ayrıştırma geri dönüşümün ilk adımı. Her doğru ayrıştırılan atık, doğaya verilen bir hediye. Evde, okulda, işyerinde... Her yerde bu sistemi uygulayabilirsiniz!"
+  },
+  {
+    "id": "q3",
+    "type": "open",
+    "question": "Sıfır Atık Projesi'nin başladığı 2017'den 2024'e kadar toplam kaç milyon ton atık geri dönüştürüldü?",
+    "openEval": {
+      "keywordsAny": ["59", "elli dokuz", "60", "altmış"],
+      "regexAny": ["5[0-9]", "59"],
+      "minHits": 1
+    },
+    "points": 20,
+    "miniCorpus": "Mükemmel! Toplam 59,9 milyon ton atığı geri dönüştürdük. Bu rakamın büyüklüğünü kavrayabiliyor musunuz? 29,3 milyon ton kağıt-karton, 7,8 milyon ton plastik, 2,9 milyon ton cam, 3,7 milyon ton metal ve 16,2 milyon ton organik atık... Bu, milyonlarca ağacın kesilmesini önledi, enerji tasarrufu sağladı ve sera gazı emisyonlarını azalttı. Her bir atığın ayrıştırılması, geleceğe yapılan bir yatırım!"
+  },
+  {
+    "id": "q4",
+    "type": "mcq",
+    "question": "Sıfır Atık Projesi kapsamında kurumlar hangi belge sistemine dahil oluyor?",
+    "options": ["A) Sadece Temel Seviye", "B) Temel, Orta ve İleri Seviye", "C) Sadece İleri Seviye", "D) Belge sistemi yok"],
+    "correct": "B",
+    "points": 10,
+    "miniCorpus": "Doğru! Sıfır Atık Belge Sistemi üç seviyeli: Temel, Orta ve İleri Seviye. Bu sistem sayesinde kurumlar kademeli olarak sıfır atık yönetimini öğreniyor ve uyguluyor. Şu anda 450'den fazla belediye bu sisteme dahil. Kamu kurumları, özel sektör, okullar, hastaneler... Herkes bu harekete katılabiliyor. Siz de kurumunuzda Sıfır Atık sistemini kurmayı düşünebilirsiniz!"
+  },
+  {
+    "id": "q5",
+    "type": "open",
+    "question": "Sıfır Atık Vakfı hangi yıl kuruldu ve amacı nedir?",
+    "openEval": {
+      "keywordsAny": ["2023", "iki bin yirmi üç", "sürdürülebilirlik", "kalıcı"],
+      "regexAny": ["202[0-9]"],
+      "minHits": 1
+    },
+    "points": 15,
+    "miniCorpus": "Kesinlikle! Sıfır Atık Vakfı 2023 yılında kuruldu. Bu vakfın kurulması çok önemli çünkü Sıfır Atık hareketinin kalıcı olmasını sağlıyor. Vakıf, eğitim programları düzenliyor, araştırmalar yapıyor ve toplumsal farkındalığı artırıyor. YÖK ile yapılan iş birliği protokolü sayesinde üniversitelerimiz de bu harekete dahil oluyor. Geleceğin çevre bilincine sahip nesilleri yetiştiriyoruz!"
+  },
+
+  {
+    "id": "q6",
+    "type": "open",
+    "question": "Emine Erdoğan Hanımefendi, Sıfır Atık Projesi ile hangi prestijli uluslararası ödüle layık görüldü?",
+    "openEval": {
+      "keywordsAny": ["küresel amaçlar", "eylem ödülü", "bm", "birleşmiş milletler", "un"],
+      "regexAny": [],
+      "minHits": 1
+    },
+    "points": 15,
+    "miniCorpus": "Kesinlikle doğru! Emine Erdoğan Hanımefendi, BM Küresel Amaçlar Eylem Ödülü'ne layık görüldü. Ayrıca BM İnsan Yerleşimleri Programı tarafından 'Atık Alanında Akıllı Şehirler Küresel Şampiyonu' ödülünü de aldı. Türkiye'nin Sıfır Atık hareketi artık dünyaya ilham veriyor. BM'de 30 Mart Uluslararası Sıfır Atık Günü'nün kabul edilmesi de bizim öncülüğümüzde gerçekleşti. Gurur verici değil mi?"
+  },
+  {
+    "id": "q7",
+    "type": "open",
+    "question": "Sıfır Atık Projesi'nin Türkiye ekonomisine yıllık katkısı yaklaşık ne kadardır?",
+    "openEval": {
+      "keywordsAny": ["milyar", "ekonomik", "katkı", "istihdam", "tasarruf"],
+      "regexAny": [],
+      "minHits": 1
+    },
+    "points": 20,
+    "miniCorpus": "Mükemmel! Sıfır Atık sadece çevresel bir proje değil, aynı zamanda ekonomik bir güç. Geri dönüşüm sektörü büyüyor, binlerce kişiye istihdam sağlıyor, hammadde ithalatını azaltıyor. Her geri dönüştürülen ton atık, ekonomimize katkı sağlıyor. Ayrıca enerji tasarrufu da sağlıyoruz. Çevre dostu olmak aynı zamanda ekonomik olmak demek!"
+  },
+  {
+    "id": "q8",
+    "type": "open",
+    "question": "Türkiye'nin Sıfır Atık deneyimi hangi uluslararası platformlarda paylaşılıyor?",
+    "openEval": {
+      "keywordsAny": ["bm", "g20", "birleşmiş milletler", "uluslararası", "konferans"],
+      "regexAny": [],
+      "minHits": 1
+    },
+    "points": 15,
+    "miniCorpus": "Kesinlikle doğru! Türkiye'nin Sıfır Atık deneyimi artık dünya çapında model alınıyor. BM'de, G20 zirvelerinde, uluslararası çevre konferanslarında Türkiye'nin başarısı anlatılıyor. Birçok ülke bizden öğrenmek istiyor. Bu, Türkiye'nin soft power'ının güçlenmesi demek. Çevre alanında öncü bir ülke olmanın gururunu yaşıyoruz!"
+  },
+  {
+    "id": "q9",
+    "type": "open",
+    "question": "Sıfır Atık Projesi kapsamında kaç kişiye eğitim verildi?",
+    "openEval": {
+      "keywordsAny": ["milyon", "30", "otuz", "turmepa", "eğitim"],
+      "regexAny": [],
+      "minHits": 1
+    },
+    "points": 15,
+    "miniCorpus": "Harika! Milyonlarca kişiye ulaştık. Sadece TURMEPA Sıfır Atık Mavi Eğitimleri ile 30.145 kişiye ulaşıldı. Okullardan hastanelere, kamu kurumlarından özel sektöre kadar her yerde eğitimler veriliyor. Çünkü farkındalık olmadan değişim olmaz. Her eğitim alan kişi, çevresindeki 10 kişiye örnek oluyor. Bu çarpan etkisi sayesinde toplumsal dönüşüm gerçekleşiyor!"
+  },
+  {
+    "id": "q10",
+    "type": "mcq",
+    "question": "Türkiye'nin 2035 yılı geri dönüşüm hedefi nedir?",
+    "options": ["A) Yüzde 45", "B) Yüzde 50", "C) Yüzde 60", "D) Yüzde 75"],
+    "correct": "C",
+    "points": 20,
+    "miniCorpus": "Mükemmel! 2035 yılında yüzde 60'a ulaşmayı hedefliyoruz. Şu anda yüzde 36,08'deyiz, yani hedefe doğru emin adımlarla ilerliyoruz. 2053 yılında ise yüzde 70 hedefimiz var. Bu hedeflere ulaşmak için hepimizin katkısı gerekiyor. Siz de bu büyük dönüşümün parçası olun! Her ayrıştırdığınız atık, bu hedefe bir adım daha yaklaştırıyor bizi!"
+  },
+  {
+    "id": "bonus",
+    "type": "open",
+    "question": "Bonus Soru: Sıfır Atık yaşam tarzını benimseyen bir kişi günlük hayatında hangi 3 basit uygulamayı yapabilir?",
+    "openEval": {
+      "keywordsAny": ["ayrıştırma", "tek kullanımlık", "geri dönüştürülebilir", "bez çanta", "cam şişe", "kompost"],
+      "regexAny": [],
+      "minHits": 2
+    },
+    "points": 25,
+    "miniCorpus": "Harika! Atıkları doğru ayrıştırmak, tek kullanımlık ürünleri azaltmak ve geri dönüştürülebilir ürünleri tercih etmek. Bunlara ek olarak: bez çanta kullanmak, cam şişeleri tercih etmek, organik atıkları kompost yapmak, gereksiz tüketimden kaçınmak... Küçük adımlar, büyük değişimler yaratır. Sıfır Atık sadece bir proje değil, yaşam felsefesi. Geleceğe bırakacağımız en güzel miras, temiz bir çevre!"
+  }
+]

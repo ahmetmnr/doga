@@ -1,0 +1,318 @@
+[
+  {
+    "patterns": ["sıfır atık nedir", "sıfır atık ne demek", "zero waste nedir", "sıfır atık tanımı"],
+    "answer": "Sıfır Atık, israfın önlenmesini, kaynakların daha verimli kullanılmasını, atık oluşum sebeplerinin gözden geçirilerek atık oluşumunun engellenmesi veya minimize edilmesini, atığın oluşması durumunda ise kaynağında ayrı toplanması ve geri kazanımının sağlanmasını kapsayan atık yönetim felsefesi olarak tanımlanan bir hedeftir. Emine Erdoğan Hanımefendi'nin himayesinde 2017'de başlayan bu hareket, Türkiye'yi dünya lideri yaptı."
+  },
+  {
+    "patterns": ["emine erdoğan", "emine erdoğan hanımefendi", "cumhurbaşkanı eşi", "proje öncüsü"],
+    "answer": "Emine Erdoğan Hanımefendi, Sıfır Atık Projesi'nin öncüsü ve himayecisidir. 27 Eylül 2017'de bu hareketi başlattı. BM Küresel Amaçlar Eylem Ödülü'ne layık görülmüştür. BM Sıfır Atık Yüksek Düzeyli Şahsiyetler Danışma Kurulu'nun başkanıdır. BM Genel Kurulu'nda katılımcılara hitap eden ilk Türk lider eşi olmuştur. Türkiye'nin çevre alanında dünya lideri olmasında büyük rol oynamıştır."
+  },
+  {
+    "patterns": ["geri dönüşüm oranı", "ne kadar geri dönüştürüldü", "başarı oranları", "istatistikler"],
+    "answer": "Türkiye'de geri dönüşüm oranı 2017'de %13'ken, 2024'te %36,08'e yükseldi. Bu muhteşem bir başarı! 7 yılda toplam 74,5 milyon ton atık geri kazanıldı. 2035'te %60'a çıkarma hedefimiz var. Bu rakamlar Türkiye'nin çevre alanındaki kararlılığını gösteriyor."
+  },
+  {
+    "patterns": ["atık ayrıştırma", "renkli kutular", "hangi kutu", "renk kodları", "ayrıştırma sistemi"],
+    "answer": "Sıfır Atık sisteminde 4 ana kategori var: Kağıt-Karton (mavi kutu), Plastik-Metal (sarı kutu), Cam (beyaz kutu) ve Organik Atık (kahverengi kutu). Bu renk kodlaması sayesinde herkes kolayca ayrıştırma yapabilir. Doğru ayrıştırma geri dönüşümün ilk adımıdır."
+  },
+  {
+    "patterns": ["evde ne yapabilirim", "nasıl katkı sağlarım", "bireysel olarak", "evde sıfır atık"],
+    "answer": "Evde yapabileceğiniz çok şey var! Atıkları doğru ayrıştırın, tek kullanımlık ürünleri azaltın, bez çanta kullanın, cam şişeleri tercih edin, organik atıkları kompost yapın, gereksiz tüketimden kaçının. Küçük adımlar büyük değişimler yaratır! Her doğru ayrıştırılan atık, doğaya verilen bir hediyedir."
+  },
+  {
+    "patterns": ["iş yerinde", "ofiste", "şirkette", "meslek", "kurumsal sıfır atık"],
+    "answer": "İş yerinizde de Sıfır Atık uygulayabilirsiniz! Kağıt kullanımını azaltın, dijital belgeleri tercih edin, atıkları doğru ayrıştırın. Şu anda 205 bin binada Sıfır Atık Yönetim Sistemi kuruldu. Kurumunuz da Temel, Orta veya İleri Seviye Sıfır Atık Belge Sistemi'ne katılabilir!"
+  },
+  {
+    "patterns": ["çocuklar", "eğitim", "okul", "genç", "farkındalık"],
+    "answer": "Çocuklara çevre bilinci kazandırmak çok önemli! Sıfır Atık Projesi kapsamında 7 yılda 25 milyon kişiye eğitim verildi. Okullardan üniversitelere kadar her yerde eğitim programları düzenleniyor. Geleceğin çevre bilincine sahip nesilleri yetiştiriyoruz. Her eğitim alan kişi çevresindeki insanlara örnek oluyor."
+  },
+  {
+    "patterns": ["ekonomik fayda", "para kazanç", "ekonomi", "ekonomik katkı"],
+    "answer": "Sıfır Atık sadece çevresel değil, ekonomik bir güç! 7 yılda ekonomiye 256 milyar TL katkı sağlandı. Bu rakam 10 milyon hanenin yıllık elektrik faturası, 10 şehir hastanesi veya 500'den fazla okul inşa edilebilecek büyüklükte! Geri dönüşüm sektörü büyüyor, binlerce kişiye istihdam sağlıyor, hammadde ithalatını azaltıyor."
+  },
+  {
+    "patterns": ["dünya", "uluslararası", "diğer ülkeler", "küresel etki"],
+    "answer": "Türkiye'nin Sıfır Atık deneyimi artık dünyaya model oluyor! BM'de 105 ülkenin ortak sunucu olduğu sıfır atık kararı kabul edildi. 30 Mart Uluslararası Sıfır Atık Günü bizim öncülüğümüzde ilan edildi. G20 zirvelerinde başarılarımızı anlatıyoruz. '7 Yılda 7 Kıtada' sloganımız boşuna değil!"
+  },
+  {
+    "patterns": ["vakıf", "sıfır atık vakfı", "sürdürülebilirlik", "kalıcılık"],
+    "answer": "Sıfır Atık Vakfı 2023'te kuruldu. Bu çok önemli çünkü hareketin kalıcı olmasını sağlıyor. Eğitim programları düzenliyor, araştırmalar yapıyor, toplumsal farkındalığı artırıyor. YÖK ile iş birliği protokolü sayesinde üniversiteler de bu harekete dahil oluyor."
+  },
+  {
+    "patterns": ["murat kurum", "bakan", "çevre bakanı", "bakanlık"],
+    "answer": "Çevre, Şehircilik ve İklim Değişikliği Bakanı Murat Kurum, Sıfır Atık Projesi'nin koordinasyonunu yapıyor. 7 yıldır bakanlık bu büyük dönüşümün öncülüğünü yapıyor. Bakan Kurum, '7 yılda 7 kıtaya yayılan Sıfır Atık ile hedeflerimizi bir bir hayata geçiyoruz' diyor."
+  },
+  {
+    "patterns": ["bm", "birleşmiş milletler", "guterres", "danışma kurulu"],
+    "answer": "BM Genel Sekreteri Guterres'in teklifi üzerine 'BM Sıfır Atık Yüksek Düzeyli Şahsiyetler Danışma Kurulu' kuruldu. Emine Erdoğan Hanımefendi bu kurulun başkanıdır. 13 üyenin yer aldığı kurul 12 Nisan 2023'te resmen kuruldu. Bu, Türkiye'nin çevre alanındaki liderliğinin en güzel göstergesi."
+  },
+  {
+    "patterns": ["30 mart", "uluslararası sıfır atık günü", "özel gün"],
+    "answer": "30 Mart, Uluslararası Sıfır Atık Günü olarak ilan edildi. BM Genel Kurulu'nda 14 Aralık 2022'de Türkiye'nin ana sunuculuğunda, 105 ülkenin de ortak sunucu olduğu sıfır atık kararı oylamayla kabul edildi. Bu gün dünya çapında Sıfır Atık farkındalığı oluşturuluyor."
+  },
+  {
+    "patterns": ["toplam atık", "74.5 milyon ton", "geri kazanılan atık"],
+    "answer": "7 yılda toplam 74,5 milyon ton atık geri kazanıldı! Bu rakamın detayı: 32,5 milyon ton kağıt-karton, 9,1 milyon ton plastik, 3,1 milyon ton cam, 6,4 milyon ton metal, 23,4 milyon ton organik ve diğer geri dönüştürülebilir malzemeler. Bu muazzam bir başarı!"
+  },
+  {
+    "patterns": ["su tasarrufu", "1.71 trilyon litre", "su korunması"],
+    "answer": "7 yılda 1,71 trilyon litre su tasarrufu sağlandı! Bu, İstanbul'un 1,5 yıllık tüketimine eş değer, 10 milyar insanın 1 yıl boyunca her gün duş almasına yetecek kadar! Su hayattır ve biz bu kadar büyük bir tasarruf sağladık."
+  },
+  {
+    "patterns": ["ağaç", "552.7 milyon ağaç", "orman korunması"],
+    "answer": "552,7 milyon ağacın kesilmesi önlendi! Bu, Amazon Ormanları'nda yaklaşık 10.000 kilometrekarelik alana eş değer, Türkiye'deki tüm ormanların %6'sına denk geliyor. Her ağaç bir nefes, bir yaşam. Bu kadar ağacı korumak, geleceğe en güzel hediyemiz!"
+  },
+  {
+    "patterns": ["205 bin bina", "sistem kurulan yerler", "yaygınlık"],
+    "answer": "Bugüne kadar 205 bin binada Sıfır Atık Yönetim Sistemi kuruldu! Okullardan hastanelere, AVM'lerden üniversitelere, belediyelerden otellere kadar her yerde. Bu sistem sayesinde milyonlarca insan Sıfır Atık felsefesiyle tanıştı."
+  },
+  {
+    "patterns": ["depozito sistemi", "doa", "sakarya", "pilot uygulama"],
+    "answer": "Sıfır Atık kapsamında Sakarya'da Depozito Yönetim Sistemi (DYS) pilot uygulaması başladı. DOA (Depozitosu Olan Ambalajlar) sistemi ile plastik ve cam şişeler, alüminyum ambalajlar iade makinelerine bırakılıyor. Tamamen yerli teknoloji! Bu sistem yılda 520 milyon avro kazanç sağlayacak."
+  },
+  {
+    "patterns": ["sıfır atık mavi", "deniz çöpleri", "mavi hareket"],
+    "answer": "10 Haziran 2019'da Sıfır Atık Mavi Hareketi başlatıldı. 28 kıyı ilinde deniz çöpleri toplanıyor. İlk 5 yıllık planla denizlerden 245 bin ton, yani 20 bin 500 kamyon dolusu çöp toplandı! 1 Ocak 2025'te ikinci 5 yıllık plan başladı."
+  },
+  {
+    "patterns": ["belge sistemi", "temel seviye", "orta seviye", "ileri seviye"],
+    "answer": "Sıfır Atık Belge Sistemi üç seviyeli: Temel Seviye, Orta Seviye ve İleri Seviye. Bu sistem sayesinde kurumlar kademeli olarak sıfır atık yönetimini öğreniyor ve uyguluyor. Kamu kurumları, özel sektör, okullar, hastaneler... Herkes bu sisteme katılabiliyor."
+  },
+  {
+    "patterns": ["450 belediye", "yerel yönetim", "belediye katılımı"],
+    "answer": "450'den fazla belediye Sıfır Atık Projesi'ni uyguluyor! Yerel yönetimlerin katılımı çok önemli çünkü atık yönetiminin en önemli ayağını oluşturuyorlar. Her belediye kendi bölgesinde Sıfır Atık sistemini kurarak vatandaşlara örnek oluyor."
+  },
+  {
+    "patterns": ["küresel iyi niyet beyanı", "100 ülke", "13 bin gönüllü"],
+    "answer": "Cumhurbaşkanı Recep Tayyip Erdoğan, 'Küresel Sıfır Atık İyi Niyet Beyanı'na ilk imzayı attı. Şu anda 100 ülkeden 13 binin üzerinde Sıfır Atık gönüllüsü bu beyanı imzaladı. Bu, küresel bir hareketin doğuşunu gösteriyor!"
+  },
+  {
+    "patterns": ["enerji tasarrufu", "227.3 milyar kilovatsaat", "elektrik"],
+    "answer": "Geri dönüşüm sayesinde 227,3 milyar kilovatsaat enerji tasarrufu sağlandı! Bu, 40 milyon hanenin 1 yıllık elektrik ihtiyacına eş değer. Enerji tasarrufu hem çevreyi koruyor hem de ekonomiye katkı sağlıyor."
+  },
+  {
+    "patterns": ["petrol tasarrufu", "54.6 milyar litre", "yakıt"],
+    "answer": "Petrolden 54,6 milyar litre tasarruf sağlandı! Bu, Türkiye'deki tüm araçların yıllık yakıt tüketimine eş değer bir kazanım. Geri dönüşüm sayesinde fosil yakıt bağımlılığımızı azaltıyoruz."
+  },
+  {
+    "patterns": ["karbon salımı", "150 milyon ton", "sera gazı"],
+    "answer": "150 milyon ton karbondioksit salımı önlendi! Bu, yaklaşık 30 milyon aracın yıllık karbon salımına eş değer. İklim değişikliği ile mücadelede Sıfır Atık'ın ne kadar önemli olduğunu gösteriyor."
+  },
+  {
+    "patterns": ["depolama alanı", "284 milyon metreküp", "alan tasarrufu"],
+    "answer": "284 milyon metreküp atık depolama alanı tasarrufu sağlandı! Bu, yaklaşık 40 bin futbol sahası büyüklüğünde bir alan. Geri dönüşüm sayesinde doğal alanları koruyoruz."
+  },
+  {
+    "patterns": ["g20", "hindistan", "dünya ortak evimiz"],
+    "answer": "Sıfır Atık Hareketi, Hindistan'ın dönem başkanlığını yaptığı G20 Zirvesi'nde de fark yarattı. Cumhurbaşkanı Erdoğan 'Dünya Ortak Evimiz' sloganıyla yürütülen projenin önemine dikkat çekti. Türkiye'nin çevre liderliği küresel platformlarda tanınıyor."
+  },
+  {
+    "patterns": ["yeterince var", "slogan", "felsefe"],
+    "answer": "'Yeterince Var' sloganı Sıfır Atık felsefesinin özünü anlatıyor. Elimizde gerçekten yeterince var, sadece doğru kullanmayı öğrenmemiz gerekiyor. İsraftan kaçınıp, mevcut kaynakları verimli kullanarak sürdürülebilir bir gelecek inşa edebiliriz."
+  },
+  {
+    "patterns": ["doğaya izinizi sevgiyle bırakın", "ana slogan", "çevre mesajı"],
+    "answer": "'Doğaya izinizi sevgiyle bırakın!' Sıfır Atık'ın ana sloganı. Bu slogan, gelecek nesillere temiz bir çevre bırakma sorumluluğumuzu hatırlatıyor. Her birimizin doğaya karşı sorumluluğu var ve bu sorumluluğu sevgiyle yerine getirmeliyiz."
+  },
+  {
+    "patterns": ["7 yılda 7 kıtada", "küresel yayılım", "dünya çapında"],
+    "answer": "'7 Yılda 7 Kıtada' sloganı Sıfır Atık'ın küresel etkisini gösteriyor. 2017'de başlayan hareket, 7 yıl içinde tüm kıtalara yayıldı. Türkiye'nin öncülüğündeki bu hareket artık dünya çapında tanınıyor ve uygulanıyor."
+  },
+  {
+    "patterns": ["organik atık", "kompost", "kahverengi kutu"],
+    "answer": "Organik atıklar kahverengi kutulara atılır. Meyve-sebze artıkları, yemek artıkları gibi organik atıklar kompost yapılarak toprağa kazandırılabilir. Evde kompost yaparak hem atık azaltabilir hem de doğal gübre elde edebilirsiniz."
+  },
+  {
+    "patterns": ["plastik atık", "sarı kutu", "plastik geri dönüşüm"],
+    "answer": "Plastik atıklar sarı kutulara atılır. Plastik şişeler, poşetler, ambalajlar... Plastik geri dönüşümü çok önemli çünkü plastik doğada yüzlerce yıl çözülmüyor. Doğru ayrıştırmayla plastik kirliliğini önleyebiliriz."
+  },
+  {
+    "patterns": ["cam atık", "beyaz kutu", "cam geri dönüşüm"],
+    "answer": "Cam atıklar beyaz kutulara atılır. Cam %100 geri dönüştürülebilir bir malzeme. Cam şişeler, kavanozlar... Cam geri dönüşümü enerji tasarrufu sağlar ve hammadde ihtiyacını azaltır."
+  },
+  {
+    "patterns": ["kağıt atık", "mavi kutu", "kağıt geri dönüşüm"],
+    "answer": "Kağıt-karton atıklar mavi kutulara atılır. Gazeteler, dergiler, karton kutular... Kağıt geri dönüşümü sayesinde ağaçları koruyoruz. 1 ton geri dönüştürülmüş kağıt, 17 ağacın kesilmesini önler."
+  },
+  {
+    "patterns": ["metal atık", "sarı kutu", "metal geri dönüşüm"],
+    "answer": "Metal atıklar da plastiklerle birlikte sarı kutulara atılır. Alüminyum kutular, teneke kutular, metal kapaklar... Metal geri dönüşümü çok enerji tasarrufu sağlar. Alüminyum kutu geri dönüşümü %95 enerji tasarrufu sağlar."
+  },
+  {
+    "patterns": ["nasıl başvuru yapabilirim", "belge almak", "kurum başvurusu"],
+    "answer": "Kurumunuz için Sıfır Atık Belge Sistemi'ne başvuru yapabilirsiniz. Çevre, Şehircilik ve İklim Değişikliği İl Müdürlüğü'ne başvurarak Temel, Orta veya İleri Seviye belge alabilirsiniz. Başvuru 30 takvim günü içinde değerlendirilir."
+  },
+  {
+    "patterns": ["hangi kurumlar katılabilir", "kimler başvurabilir", "katılım şartları"],
+    "answer": "Tüm kamu kurumları, özel sektör, okullar, üniversiteler, hastaneler, oteller, restoranlar, AVM'ler, belediyeler, siteler, terminaller, marinalar, işyerleri... Kısacası her türlü kurum ve kuruluş Sıfır Atık sistemine katılabilir."
+  },
+  {
+    "patterns": ["çocuklara nasıl öğretirim", "aile eğitimi", "evde eğitim"],
+    "answer": "Çocuklara örnek olun! Evde atıkları birlikte ayrıştırın, renk kodlarını öğretin, oyun haline getirin. 'Bu plastik şişe sarı kutuya gidiyor' diyerek eğlenceli hale getirin. Çocuklar taklit ederek öğrenir, siz doğru davranışları gösterirseniz onlar da öğrenir."
+  },
+  {
+    "patterns": ["işyerinde nasıl uygularım", "ofis uygulamaları", "çalışma yerinde"],
+    "answer": "İşyerinizde renkli kutular koyun, çalışanlara eğitim verin, dijital belgeleri tercih edin, tek kullanımlık bardak yerine kişisel bardak kullanın, yazıcı kağıdını iki taraflı kullanın. Küçük adımlarla büyük değişim yaratabilirsiniz."
+  },
+  {
+    "patterns": ["ne kadar sürede sonuç alırım", "geri dönüşüm süreci", "ne zaman etki eder"],
+    "answer": "Sıfır Atık'ın etkilerini hemen görmeye başlarsınız! Doğru ayrıştırdığınız her atık geri dönüşüme gider. Bireysel olarak ayda kilolarca atığı geri dönüşüme kazandırabilirsiniz. Toplumsal etki ise yıllara yayılır, ama her gün biraz daha büyür."
+  },
+  {
+    "patterns": ["en büyük zorluk nedir", "engeller", "güçlükler"],
+    "answer": "En büyük zorluk alışkanlık değişimi. İnsanlar yıllardır atıkları karıştırarak atıyordu. Ama eğitim ve farkındalıkla bu değişiyor. 7 yılda 25 milyon kişiye eğitim verdik. Sabırla, kararlılıkla her zorluğun üstesinden gelinir."
+  },
+  {
+    "patterns": ["gelecek hedefler", "2035 hedefi", "2053 vizyonu"],
+    "answer": "2035 yılında geri dönüşüm oranını %60'a çıkarmayı hedefliyoruz. 2053 yılında ise %70'e ulaşmak istiyoruz. Bu hedeflere ulaşmak için hepimizin katkısı gerekiyor. Birlikte bu hedeflere ulaşacağız!"
+  },
+  {
+    "patterns": ["diğer ülkeler ne yapıyor", "dünya örnekleri", "karşılaştırma"],
+    "answer": "Türkiye artık dünyaya örnek oluyor! Birçok ülke bizden öğrenmek istiyor. BM'de, G20'de deneyimlerimizi paylaşıyoruz. 105 ülke sıfır atık kararına ortak sunucu oldu. Türkiye çevre alanında lider ülke konumunda."
+  },
+  {
+    "patterns": ["teknoloji kullanımı", "dijital çözümler", "akıllı sistemler"],
+    "answer": "DOA (Depozito) sistemi tamamen yerli teknoloji kullanıyor. QR kod okutarak dijital cüzdan sistemi çalışıyor. Akıllı iade makineleri, dijital uygulamalar... Teknoloji Sıfır Atık'ın önemli bir parçası. Gelecekte daha fazla dijital çözüm göreceğiz."
+  },
+  {
+    "patterns": ["sağlık faydaları", "temiz çevre", "halk sağlığı"],
+    "answer": "Sıfır Atık sağlığımızı da koruyor! Temiz çevre, temiz hava, temiz su... Atık kirliliği azaldıkça yaşam kalitemiz artıyor. Özellikle çocuklar için temiz bir çevre çok önemli. Sağlıklı nesiller için Sıfır Atık şart!"
+  },
+  {
+    "patterns": ["tarım ve sıfır atık", "organik gübre", "kompost faydaları"],
+    "answer": "Organik atıklardan elde edilen kompost, tarımda doğal gübre olarak kullanılıyor. Kimyasal gübre kullanımını azaltıyor, toprağı besliyor. Çiftçilerimiz de Sıfır Atık'tan faydalanıyor. Sürdürülebilir tarım için önemli bir adım."
+  },
+  {
+    "patterns": ["turizm sektörü", "otel uygulamaları", "turizm ve çevre"],
+    "answer": "Turizm sektörü Sıfır Atık'ı benimsiyor! Oteller, restoranlar, marinalar sistem kuruyor. Temiz çevre turizm için çok önemli. Turistler temiz, çevre dostu destinasyonları tercih ediyor. Sıfır Atık turizmimizi de güçlendiriyor."
+  },
+  {
+    "patterns": ["gençler ne yapabilir", "üniversite öğrencileri", "genç katılımı"],
+    "answer": "Gençler Sıfır Atık'ın en önemli destekçileri! Üniversitelerde sistem kuruluyor, YÖK ile iş birliği yapılıyor. Sosyal medyada farkındalık yaratabilir, arkadaşlarınıza öğretebilir, kampüsünüzde projeler geliştirebilirsiniz. Geleceğin liderleri sizsiniz!"
+  },
+  {
+    "patterns": ["yaşlılar nasıl katılır", "yaşlı eğitimi", "büyükanne büyükbaba"],
+    "answer": "Yaşlılarımız aslında israftan kaçınma konusunda çok deneyimli! Onlara renk kodlarını öğretmek yeterli. Çocuklar büyükanne büyükbabalarına öğretebilir. Aile içi eğitim çok etkili oluyor. Yaşlılarımızın deneyimi + gençlerin enerjisi = Başarı!"
+  },
+  {
+    "patterns": ["kış aylarında", "mevsimsel uygulamalar", "soğuk hava"],
+    "answer": "Sıfır Atık her mevsim uygulanır! Kış aylarında organik atık miktarı değişebilir, ama ayrıştırma devam eder. Kalorifer yakıtı tasarrufu için geri dönüşüm enerji kazanımı önemli. Kış sebzeleri, meyveleri de kompost yapılabilir."
+  },
+  {
+    "patterns": ["yaz aylarında", "sıcak hava", "tatil döneminde"],
+    "answer": "Yaz aylarında özellikle plastik şişe tüketimi artar. Plajlarda, piknik alanlarında dikkatli olun. Tatilde gittiğiniz yerlerde de Sıfır Atık kurallarını uygulayın. Doğayı temiz bırakın, çöplerinizi ayrıştırın. Tatil yaparken çevreyi de düşünün!"
+  },
+  {
+    "patterns": ["engelli vatandaşlar", "erişilebilirlik", "özel ihtiyaçlar"],
+    "answer": "Sıfır Atık herkes için! Engelli vatandaşlarımız için erişilebilir kutular, kolay kullanılabilir sistemler geliştiriliyor. Herkesin katılabileceği bir hareket bu. Engelli vatandaşlarımız da çevre koruma konusunda çok duyarlı."
+  },
+  {
+    "patterns": ["köylerde uygulama", "kırsal alan", "köy hayatı"],
+    "answer": "Köylerde organik atık zaten toprağa karışıyor, bu doğal kompost! Ama plastik, cam, metal atıklar için ayrıştırma önemli. Köylerde de belediye hizmetleri yaygınlaşıyor. Kırsal alanda yaşayanlar da Sıfır Atık'a katılabiliyor."
+  },
+  {
+    "patterns": ["şehirde yaşam", "büyük şehir", "metropol"],
+    "answer": "Büyük şehirlerde Sıfır Atık daha kritik! Milyonlarca insan var, atık miktarı çok fazla. İstanbul, Ankara, İzmir gibi büyük şehirlerde sistem yaygınlaşıyor. Apartman yöneticileri, site sakinleri birlikte hareket ediyor."
+  },
+  {
+    "patterns": ["apartman yönetimi", "site uygulaması", "toplu konut"],
+    "answer": "Apartman ve sitelerde Sıfır Atık sistem kurulumu yapılıyor. Yönetici ve sakinler birlikte karar alıyor. Ortak alanlara renkli kutular konuyor, eğitim veriliyor. Toplu yaşam alanlarında başarı daha yüksek oluyor."
+  },
+  {
+    "patterns": ["market alışverişi", "süpermarket", "alışveriş alışkanlıkları"],
+    "answer": "Market alışverişinde bez çanta kullanın, gereksiz ambalajlı ürünlerden kaçının, toplu alışveriş yapın. Geri dönüştürülebilir ambalajlı ürünleri tercih edin. DOA logosu olan ürünleri alın, depozito sistemine katılın."
+  },
+  {
+    "patterns": ["restoran ve kafe", "yiyecek içecek sektörü", "horeca"],
+    "answer": "Restoran ve kafeler için özel Sıfır Atık sistem kurulumu var. Yemek artıkları organik kutuya, ambalajlar ayrıştırılıyor. Tek kullanımlık ürün kullanımı azaltılıyor. Müşteri memnuniyeti de artıyor çünkü çevre bilinci yüksek."
+  },
+  {
+    "patterns": ["fabrika ve sanayi", "endüstriyel atık", "üretim sektörü"],
+    "answer": "Sanayi kuruluşları da Sıfır Atık sistemine katılıyor. Üretim atıkları ayrıştırılıyor, geri dönüşüme kazandırılıyor. Bakan Kurum sanayide yeşil dönüşümü destekliyor. Çevre dostu üretim hem maliyeti düşürüyor hem imaj artırıyor."
+  },
+  {
+    "patterns": ["hastane uygulaması", "sağlık sektörü", "tıbbi atık"],
+    "answer": "Hastanelerde özel Sıfır Atık sistem kurulumu yapılıyor. Tıbbi atıklar ayrı, diğer atıklar ayrıştırılıyor. Sağlık çalışanları eğitim alıyor. Temiz hastane ortamı hem hasta hem personel sağlığı için önemli."
+  },
+  {
+    "patterns": ["okul uygulaması", "eğitim kurumları", "öğrenci katılımı"],
+    "answer": "Okullar Sıfır Atık'ın en önemli uygulama alanı! Çocuklar küçük yaşta öğreniyor, eve taşıyor. Öğretmenler eğitim veriyor, okul bahçesinde kompost yapılıyor. Eğitim kurumlarında sistem kurulumu öncelikli."
+  },
+  {
+    "patterns": ["üniversite kampüsü", "yükseköğretim", "öğrenci projeleri"],
+    "answer": "YÖK ile Sıfır Atık Vakfı arasında iş birliği protokolü imzalandı. Üniversite kampüslerinde sistem kuruluyor, öğrenciler proje geliştiriyor. Gençler araştırma yapıyor, yenilikçi çözümler buluyor. Akademik çalışmalar destekleniyor."
+  },
+  {
+    "patterns": ["belediye hizmetleri", "yerel yönetim", "büyükşehir"],
+    "answer": "450'den fazla belediye Sıfır Atık uyguluyor! Belediyeler toplama, taşıma, geri dönüşüm tesisleri kuruyor. Vatandaş eğitimi veriyor, farkındalık kampanyaları düzenliyor. Yerel yönetimlerin desteği çok önemli."
+  },
+  {
+    "patterns": ["geri dönüşüm tesisleri", "fabrikalar", "işleme merkezleri"],
+    "answer": "Geri dönüşüm tesisleri yaygınlaşıyor, kapasiteler artırılıyor. Ayrıştırılmış atıklar bu tesislerde işlenerek yeni ürünlere dönüştürülüyor. Yatırımlar artıyor, istihdam yaratılıyor. Teknoloji geliştiriliyor."
+  },
+  {
+    "patterns": ["ihracat potansiyeli", "dış ticaret", "ekonomik fırsat"],
+    "answer": "Geri dönüştürülmüş ürünler ihraç ediliyor, döviz kazandırıyor. Temiz teknoloji ihracatı artıyor. Türkiye'nin Sıfır Atık deneyimi diğer ülkelere danışmanlık hizmeti olarak sunuluyor. Yeni ekonomik fırsatlar yaratılıyor."
+  },
+  {
+    "patterns": ["araştırma geliştirme", "ar-ge", "yenilik"],
+    "answer": "Sıfır Atık alanında Ar-Ge çalışmaları destekleniyor. Yeni geri dönüşüm teknolojileri geliştiriliyor, yerli çözümler üretiliyor. DOA sistemi tamamen yerli teknoloji. Üniversiteler, özel sektör iş birliği yapıyor."
+  },
+  {
+    "patterns": ["uluslararası iş birliği", "ikili anlaşmalar", "teknoloji transferi"],
+    "answer": "Türkiye'nin Sıfır Atık deneyimi diğer ülkelerle paylaşılıyor. İkili anlaşmalar yapılıyor, teknoloji transferi gerçekleştiriliyor. Uzman personel eğitimi veriliyor. Türkiye çevre teknolojilerinde ihracatçı ülke oluyor."
+  },
+  {
+    "patterns": ["medya ve iletişim", "farkındalık kampanyaları", "sosyal medya"],
+    "answer": "Medya Sıfır Atık'ın yaygınlaşmasında çok önemli rol oynuyor. Televizyon, gazete, sosyal medya kampanyaları düzenleniyor. Ünlü isimler destek veriyor. #SıfırAtık hashtagi ile farkındalık artırılıyor."
+  },
+  {
+    "patterns": ["sivil toplum", "gönüllü kuruluşlar", "ngo"],
+    "answer": "Sivil toplum kuruluşları Sıfır Atık'ın önemli destekçileri. TURMEPA gibi kuruluşlar eğitim veriyor, farkındalık yaratıyor. Gönüllüler sahada çalışıyor, toplum mobilizasyonu sağlıyor. Sivil toplum desteği çok değerli."
+  },
+  {
+    "patterns": ["özel sektör katkısı", "şirket sorumluluğu", "kurumsal sürdürülebilirlik"],
+    "answer": "Özel sektör Sıfır Atık'a büyük destek veriyor. Şirketler kendi tesislerinde sistem kuruyor, çalışan eğitimi veriyor. Kurumsal sürdürülebilirlik raporlarında yer alıyor. Çevre dostu şirket imajı rekabet avantajı sağlıyor."
+  },
+  {
+    "patterns": ["kamu kurumları", "devlet desteği", "resmi kuruluşlar"],
+    "answer": "Tüm kamu kurumları Sıfır Atık sistemine geçmek zorunda. Bakanlıklar, müdürlükler, devlet hastaneleri, okullar... Devlet öncülük ediyor, örnek oluyor. Kamu alımlarında çevre dostu ürünler tercih ediliyor."
+  },
+  {
+    "patterns": ["maliyet hesabı", "ne kadar para", "ekonomik analiz"],
+    "answer": "Sıfır Atık başlangıçta yatırım gerektiriyor ama uzun vadede kazandırıyor. 7 yılda 256 milyar TL ekonomik katkı sağlandı. Enerji, su, hammadde tasarrufu maliyetleri düşürüyor. Yatırım geri dönüş süresi kısa."
+  },
+  {
+    "patterns": ["hukuki düzenlemeler", "yasa", "mevzuat"],
+    "answer": "Sıfır Atık için gerekli yasal düzenlemeler yapıldı. Atık Yönetimi Yönetmeliği güncellendi. Kamu kurumları için zorunluluk getirildi. Özel sektör teşvik ediliyor. Hukuki altyapı güçlendiriliyor."
+  },
+  {
+    "patterns": ["denetim ve kontrol", "takip sistemi", "raporlama"],
+    "answer": "Sıfır Atık uygulamaları düzenli denetleniyor. Belge alan kurumlar raporlama yapıyor. İstatistikler tuttuluyor, başarı ölçülüyor. Şeffaf bir sistem kuruldu. Vatandaşlar da denetim yapabiliyor."
+  },
+  {
+    "patterns": ["gelecek nesiller", "çocuklarımız", "sürdürülebilirlik"],
+    "answer": "Sıfır Atık gelecek nesiller için yapılıyor. Çocuklarımıza temiz bir dünya bırakmak istiyoruz. Sürdürülebilir kalkınma hedefleri doğrultusunda hareket ediyoruz. Bugünün kararları geleceği belirliyor."
+  },
+  {
+    "patterns": ["küresel ısınma", "iklim değişikliği", "çevre krizi"],
+    "answer": "Sıfır Atık iklim değişikliği ile mücadelenin önemli bir parçası. 150 milyon ton karbon salımı önlendi. Sera gazı emisyonları azaltılıyor. Çevre krizi küresel bir sorun, çözümü de küresel olmalı."
+  },
+  {
+    "patterns": ["biyoçeşitlilik", "doğal yaşam", "ekosistem"],
+    "answer": "Sıfır Atık biyoçeşitliliği koruyor. Atık kirliliği azaldıkça doğal yaşam alanları korunuyor. 552,7 milyon ağaç kesilmekten kurtarıldı. Deniz çöpleri temizleniyor. Ekosistem dengeleri korunuyor."
+  },
+  {
+    "patterns": ["su kaynakları", "nehir", "göl", "deniz"],
+    "answer": "Sıfır Atık su kaynaklarını koruyor. 1,71 trilyon litre su tasarrufu sağlandı. Atık sular arıtılıyor, deniz çöpleri temizleniyor. Su kirliliği önleniyor. Temiz su gelecek nesillerin hakkı."
+  },
+  {
+    "patterns": ["hava kalitesi", "temiz hava", "atmosfer"],
+    "answer": "Geri dönüşüm hava kalitesini iyileştiriyor. Yakma yerine geri dönüşüm tercih ediliyor. Enerji tasarrufu fosil yakıt kullanımını azaltıyor. Temiz hava soluması herkesin hakkı. Sıfır Atık temiz hava için önemli."
+  },
+  {
+    "patterns": ["toprak kirliliği", "tarım arazisi", "verimli toprak"],
+    "answer": "Sıfır Atık toprak kirliliğini önlüyor. Organik atıklardan kompost yapılıyor, toprak verimliliği artırılıyor. Zararlı atıklar toprağa karışmıyor. Tarım arazileri korunuyor. Verimli toprak gıda güvenliği için şart."
+  }
+]

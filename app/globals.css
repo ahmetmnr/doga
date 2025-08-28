@@ -1,0 +1,99 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --foreground-rgb: 0, 0, 0;
+    --background-start-rgb: 240, 253, 244;
+    --background-end-rgb: 220, 252, 231;
+  }
+
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --foreground-rgb: 255, 255, 255;
+      --background-start-rgb: 20, 30, 20;
+      --background-end-rgb: 10, 20, 10;
+    }
+  }
+}
+
+body {
+  color: rgb(var(--foreground-rgb));
+  background: linear-gradient(
+    to bottom,
+    rgb(var(--background-start-rgb)),
+    rgb(var(--background-end-rgb))
+  );
+  min-height: 100vh;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #10B981;
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #059669;
+}
+
+/* Sound wave animation bars */
+.sound-bar {
+  display: inline-block;
+  width: 4px;
+  margin: 0 2px;
+  background: currentColor;
+  border-radius: 2px;
+  animation: soundWave 1s ease-in-out infinite;
+}
+
+.sound-bar:nth-child(2) { animation-delay: 0.1s; }
+.sound-bar:nth-child(3) { animation-delay: 0.2s; }
+.sound-bar:nth-child(4) { animation-delay: 0.3s; }
+.sound-bar:nth-child(5) { animation-delay: 0.4s; }
+
+/* Leaderboard gradient */
+.leaderboard-gradient {
+  background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+}
+
+/* Glass effect */
+.glass-effect {
+  background: rgba(255, 255, 255, 0.1);
+  backdrop-filter: blur(10px);
+  border: 1px solid rgba(255, 255, 255, 0.2);
+}
+
+/* Progress bar animation */
+.progress-segment {
+  transition: all 0.5s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+/* Avatar glow effect */
+.avatar-glow {
+  box-shadow: 
+    0 0 20px rgba(16, 185, 129, 0.3),
+    0 0 40px rgba(16, 185, 129, 0.2),
+    0 0 60px rgba(16, 185, 129, 0.1);
+}
+
+/* Button hover effects */
+.btn-primary {
+  @apply bg-primary text-white px-6 py-3 rounded-full font-semibold transition-all duration-300 hover:scale-105 hover:shadow-lg active:scale-95;
+}
+
+.btn-danger {
+  @apply bg-error text-white px-6 py-3 rounded-full font-semibold transition-all duration-300 hover:scale-105 hover:shadow-lg active:scale-95;
+}
